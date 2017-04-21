@@ -123,7 +123,7 @@ mail($my_email,$subject,$message,$headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="nanobio sensors, self-assembly, nanobiomechanics, nanobiomedicine, drug delivery, nanoboiotechnology, nanobio sensors conference, self-assembly conference, nanobiomechanics conference, nanobiomedicine conference, drug delivery conference, nanoboiotechnology conference, nanotechnology, nanotechnology conference">
-<title>ICNB'17 - Contact Us</title>
+<title>ICNB'18 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -152,7 +152,7 @@ mail($my_email,$subject,$message,$headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICNB'17</h1>
+  <h1>ICNB'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -194,8 +194,8 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
         <div class="bg">
-          <h1>2<sup>nd</sup> International Conference on<br> Nanobiotechnology (ICNB'17)</h1>
-          <p class="subhead">April 4 - 6, 2017 | Barcelona, Spain</p>
+          <h1>3<sup>rd</sup> International Conference on<br> Nanobiotechnology (ICNB'18)</h1>
+          <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -210,7 +210,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important;">ICNB'17 is part of the <b>2<sup>nd</sup> World Congress on Recent Advances in Nanotechnology (RAN'17)</b>. For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
+<p class="body" style="text-align:center!important;">ICNB'18 is part of the <b>3<sup>rd</sup> World Congress on Recent Advances in Nanotechnology (RAN'18)</b>. For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
         </div>
     </div>
 
@@ -222,8 +222,8 @@ mail($my_email,$subject,$message,$headers);
         </div>
 
         <div class="bg">
-          <h1>2<sup>nd</sup> International Conference on<br> Nanobiotechnology (ICNB'17)</h1>
-          <p class="subhead">April 4 - 6, 2017 | Barcelona, Spain</p>
+          <h1>3<sup>rd</sup> International Conference on<br> Nanobiotechnology (ICNB'18)</h1>
+          <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -238,7 +238,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important; color: #FFF!important;">ICNB'17 is part of the <b>2<sup>nd</sup> World Congress on Recent Advances in Nanotechnology (RAN'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICNB'18 is part of the <b>3<sup>rd</sup> World Congress on Recent Advances in Nanotechnology (RAN'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -252,11 +252,11 @@ mail($my_email,$subject,$message,$headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">ICNB 2017:</p>
-      <p class="body">ICNB 2017 will  be held in Barcelona, Spain on April 4 - 6, 2017 at the Alimara Hotel Barcelona.</p>
+      <p class="bold">ICNB 2018:</p>
+      <p class="body">ICNB 2018 will  be held in Budapest, Hungary on April 10 - 12, 2018 at the Novotel Budapest Centrum.</p>
 
-      <p class="bold">RAN'17 Workshop</p>
-      <p class="body">International ASET Inc. is proud to present <b>Dr. Vladimir A. Baulin</b> (Universitat Rovira I Virgili, Spain) and <b>Prof. Elena P. Ivanova</b> (Swinburne University of Technology, Australia) as organizers of a dedicated workshop for the 2nd World Congress on Recent Advances in Nanotechnology (RAN'17).</p>
+      <!-- <p class="bold">RAN'18 Workshop</p>
+      <p class="body">International ASET Inc. is proud to present <b>Dr. Vladimir A. Baulin</b> (Universitat Rovira I Virgili, Spain) and <b>Prof. Elena P. Ivanova</b> (Swinburne University of Technology, Australia) as organizers of a dedicated workshop for the 2nd World Congress on Recent Advances in Nanotechnology (RAN'18).</p>
 
       <cenet><p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Workshop on Nanostructured Surfaces</i></p>
 
@@ -264,9 +264,10 @@ mail($my_email,$subject,$message,$headers);
 
       <p class="body">For more information about the workshop and the speaker, please visit:  <a href="http://rancongress.com/#workshop" class="body-link" target="_blank">here.</a></p>
       <br>
-      <p class="body" class="body-link" style="text-align: center!important;"><a href="http://rancongress.com/RAN17_Workshop.pdf" target="_blank"><b>Workshop Flyer</b></a></p>
-      <br>
-      <!-- <p class="body">As per popular request, the organizing committee has decided to extend the RAN'17 congress to three days (now April 4 - 6, 2017). The new high-level schedule is as follows:</p>
+      <p class="body" class="body-link" style="text-align: center!important;"><a href="http://rancongress.com/RAN17_Workshop.pdf" target="_blank"><b>Workshop Flyer</b></a></p> -->
+
+      <p class="bold">RAN'18 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the ICNB'18 conference to three days (April 10 - 12). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
@@ -274,10 +275,15 @@ mail($my_email,$subject,$message,$headers);
         <li>Day 3: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
       
-      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p> -->
+      <p class="body">Registration for the workshop will be separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+
       
-      <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
+
+    <p class="bold">Poster Board Dimensions:</p>
+      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 70 cm width.</p>
+
     </div>          
     <div>
       <h2 class="title">2</h2>
@@ -296,7 +302,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICNB'17.</p>
+    Thank you for your interest in ICNB'18.</p>
   </div>
 </div>
 
@@ -317,34 +323,18 @@ mail($my_email,$subject,$message,$headers);
           </div>
         </div>
       </section>
-    <h2>Upcoming Dates</h2>
+   <h2>Upcoming Dates</h2>
 
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Feb. 10, 2017</div> Mar. 3, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Sep. 28, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <div class="past past-text">Final Regular Registration</div> Extended Regular Registration
-  </div>
-</div>
-</div>
-
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <!-- <div class="past">Dec. 10, 2016</div> --> After March 3, 2017
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <!-- <div class="past past-text">Notification of Authors</div> -->
-   Late Registration
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Paper Submission Deadline
   </div>
 </div>
 </div>
@@ -352,17 +342,31 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 01, 2017</div>--> April 4, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 26, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <!-- <div class="past past-text">Final Version of Accepted Submissions Deadline</div>  -->
-    First Day of the Conference
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Notification to Authors
   </div>
 </div>
 </div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 16, 2017
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Early-Bird Registration
+  </div>
+</div>
+</div>
+
 
   </div>
   </div>
@@ -384,7 +388,7 @@ mail($my_email,$subject,$message,$headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICNB'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICNB'18, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   
@@ -439,7 +443,7 @@ mail($my_email,$subject,$message,$headers);
 </footer> 
 
 <div class="copyright">
-  <a href="international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
+  <a href="http://international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
   <p class="body">© Copyright <script>document.write(new Date().getFullYear())</script>, International ASET Inc. – All Rights Reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>
