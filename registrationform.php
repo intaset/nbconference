@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for ICNB 2018. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for ICNB 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@nbconference.com. You can find the copyright form here: www.nbconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -67,9 +67,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for ICNB'18";
+$your_subject = "Your Registration Details for ICNB'19";
 
-$your_headers = "From: ICNB'18 <" . $my_email . ">";
+$your_headers = "From: ICNB'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -115,7 +115,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="nanobio sensors, self-assembly, nanobiomechanics, nanobiomedicine, drug delivery, nanoboiotechnology, nanobio sensors conference, self-assembly conference, nanobiomechanics conference, nanobiomedicine conference, drug delivery conference, nanoboiotechnology conference, nanotechnology, nanotechnology conference">
-<title>ICNB'18 - Registration Form Filled!</title>
+<title>ICNB'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -146,7 +146,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICNB'18</h1>
+  <h1>ICNB'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -187,8 +187,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on<br> Nanobiotechnology (ICNB'18)</h1>
-          <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on<br> Nanobiotechnology (ICNB'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -215,8 +215,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on<br> Nanobiotechnology (ICNB'18)</h1>
-          <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on<br> Nanobiotechnology (ICNB'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -255,7 +255,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@nbconference.com" class="body-link">registration@nbconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at ICNB'18!</p>
+  <p class="body">We are looking forward to seeing you at ICNB'19!</p>
   </div>
 </div>
 
@@ -284,7 +284,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICNB'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICNB'19, please fill out the form below:</p>
 
   <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
